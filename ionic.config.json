@@ -1,0 +1,7 @@
+{
+  "name": "AppCampal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
