@@ -1,0 +1,139 @@
+[
+    {
+        "dia":"viernes",
+        "hora":"12.00 a 20.00",
+        "descripcion":"Llegada de delegaciones al Campal 2020"
+    },
+    {
+        "dia":"viernes",
+        "hora":"20.00 a 22.00",
+        "descripcion":"Programa Apertura II CAMPAL 2020 (Carpa Principal)"
+    },
+    {
+        "dia":"viernes",
+        "hora":"22.00 a 22.30",
+        "descripcion":"Indicaciones Finales y Preparativos para Descanso"
+    },
+    {
+        "dia":"viernes",
+        "hora":"22.30",
+        "descripcion":"Descanso"
+    },
+    {
+        "dia":"sabado",
+        "hora":"6:45 a 7:45",
+        "descripcion":"Levantada y Aseo Personal"
+    },
+    {
+        "dia":"sabado",
+        "hora":"7.45 a 8:30",
+        "descripcion":"Desayuno"
+    },
+    {
+        "dia":"sabado",
+        "hora":"8.30 a 9.00",
+        "descripcion":"Alabanzas Congregacionales"
+    },
+    {
+        "dia":"sabado",
+        "hora":"9.00 a 9.20",
+        "descripcion":"Inicio Programa de Escuela Sábatica"
+    },
+    {
+        "dia":"sabado",
+        "hora":"9.20 a 10.10",
+        "descripcion":"Seminario: “Reenfocando y Reavivando el Corazón de la Iglesia” –  (Pr. Andrés Dinamarca)"
+    },
+    {
+        "dia":"sabado",
+        "hora":"10.10 a 11.00",
+        "descripcion":"Escuela Sabática en Acción"
+    },
+    {
+        "dia":"sabado",
+        "hora":"11.00 a 12.30",
+        "descripcion":"Sermón"
+    },
+    {
+        "dia":"sabado",
+        "hora":"12.30 a 13.00",
+        "descripcion":"Bautismos"
+    }, 
+    {
+        "dia":"sabado",
+        "hora":"13.00 a 14.00",
+        "descripcion":"Almuerzo"
+    },
+    {
+        "dia":"sabado",
+        "hora":"14.00 a 15.00",
+        "descripcion":"Tiempo Libre Descanso"
+    },
+    {
+        "dia":"sabado",
+        "hora":"15.00 a 18.30",
+        "descripcion":"Capacitación Principal III CAMPAL 2020"
+    },
+    {
+        "dia":"sabado",
+        "hora":"18.30 a 19.00",
+        "descripcion":"Cierre de Programa de Capacitación III CAMPAL 2020"
+    },
+    {
+        "dia":"sabado",
+        "hora":"19.00 a 20.00",
+        "descripcion":"Cena"
+    },
+    {
+        "dia":"sabado",
+        "hora":"20.00 a 22.00",
+        "descripcion":"Programa “Compromiso, Acción y Victoria” Y Concierto Musical Coro UNACH"
+    },    {
+        "dia":"sabado",
+        "hora":"22.00 a 23.00",
+        "descripcion":"Apertura de Stands Materiales  y Feria de Salud. Tiempo Libre para Relacionamiento"
+    },
+    {
+        "dia":"sabado",
+        "hora":"23.00 a 23.30",
+        "descripcion":"Preparativos para Descanso"
+    },
+    {
+        "dia":"sabado",
+        "hora":"23.00",
+        "descripcion":"Descanso"
+    },
+    {
+        "dia":"domingo",
+        "hora":"7.00 a 7:45",
+        "descripcion":"Levantada y Aseo Personal"
+    },
+    {
+        "dia":"domingo",
+        "hora":"7.45 a 8:45",
+        "descripcion":"Desayuno"
+    },
+    {
+        "dia":"domingo",
+        "hora":"8.45 a 9.00",
+        "descripcion":"Alabanzas Congregacionales"
+    },
+    {
+        "dia":"domingo",
+        "hora":"9.00 a 9.45",
+        "descripcion":"Culto Matutino"
+    },
+    {
+        "dia":"domingo",
+        "hora":"9.45 a 10.30",
+        "descripcion":"Programa de Clausura"
+    },
+    {
+        "dia":"domingo",
+        "hora":"10.30",
+        "descripcion":"Tiempo Libre - Recreación"
+    }
+    
+    
+    
+]
